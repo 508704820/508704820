@@ -47,3 +47,4 @@ We actively use and contribute to [Elyan Labs](https://elyanlabs.ai) projects:
 - **Platform:** macOS (Apple Silicon)
 # SSRF test Sun May 31 10:37:31 CST 2026
 # GCP test Sun May 31 10:44:30 CST 2026
+# Loopback bypass test Sun May 31 13:09:19 CST 2026
